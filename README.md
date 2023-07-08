@@ -16,7 +16,8 @@ Les améliorations possibles sont la mise en place de la quatité afin de choisi
 
 IV. Choix techniques
 
-Pour ce
+Pour realiser ce projet l'api a été fait en nodeJs. Pour la base de données je me suis servie de MongoDb et pour la connecter a l'api je me servi de mongoose.
 
 V. Conclusion
 
+Le projet a ete tres intéressant car ça ma permis de découvrir le graphql meme si je risque de ne pas m'en servir dans l'entreprise.
